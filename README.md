@@ -1,4 +1,4 @@
-# Movie-recommendation-and-sentiment-analysis-using-Machine-Learning
+# Movie-recommendation-using-Machine-Learning
 
 ## Overview
 
@@ -32,13 +32,9 @@ To run the project locally, follow these steps:
 ## Usage
 - Data Collection: Use APIs or web scraping techniques to collect movie data including titles, genres, and user reviews.
 - Preprocessing: Clean the data by removing duplicates, handling missing values, and performing text preprocessing (e.g., tokenization, stemming, and stop word removal).
-- Sentiment Analysis: Train a sentiment analysis model using machine learning or deep learning techniques. Classify reviews into positive, negative, or neutral sentiments.
 - Recommendation System: Implement collaborative filtering, content-based filtering, or hybrid recommendation algorithms to suggest movies to users based on their preferences and sentiments.
 - User Interface: Develop a user interface where users can input their preferences, view recommended movies, and explore additional movie details.
 
-## Architecture
-![Screenshot 2024-03-16 165112](https://github.com/cyrus0001/Movie-recommendation-and-sentiment-analysis-using-Machine-Learning/assets/142567773/84c786f2-7795-44e4-be35-f2a0c51926bc)
-![Achitecture](https://github.com/cyrus0001/Movie-recommendation-and-sentiment-analysis-using-Machine-Learning/assets/142567773/21d01f00-28e4-4b81-9fc8-6bb738399716)
 
 # Similarity Measures
 
